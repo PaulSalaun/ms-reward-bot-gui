@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ms-reward-bot-gui",
+    "slug": "ms-reward-bot-gui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
